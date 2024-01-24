@@ -1,5 +1,5 @@
 # Curso Java COMPLETO - Exercícios Resolvidos
-Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO Programação Orientada a Objetos + Projetos" oferecido na plataforma Udemy. Aqui, você encontrará minhas soluções para os exercicios propostos durante o curso, proporcionando uma referência valiosa para estudantes e entusiastas que desejam aprofundar seus conhecimentos em programação Java.
+Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO Programação Orientada a Objetos + Projetos" oferecido na plataforma Udemy. Aqui, você encontrará minhas soluções para os exercicios propostos durante o curso.
 
 # Estrutura do Repositório
 💠Tipo Exercícios: Cada tipo de exercícios foi separado por pasta conforme desenvolvendo o andar do curso.
