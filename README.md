@@ -13,9 +13,9 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Estrutura Condicional.
 
-❌ Estrutura While.
+✔ Estrutura While.
 
-❌ Estrutura FOR.
+✔ Estrutura FOR.
 
 ❌ ...
 
