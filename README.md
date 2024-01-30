@@ -17,7 +17,7 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Estrutura FOR.
 
-❌ Exercícios Fixação Classes, Atributos, Membros e Staticos.
+✔ Exercícios Fixação Classes, Atributos, Membros e Staticos.
 
 ❌ ...
 
