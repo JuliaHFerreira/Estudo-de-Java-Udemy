@@ -19,6 +19,8 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Exercícios Fixação Classes, Atributos, Membros e Staticos.
 
+✔ Exercício Membros Estáticos, Construtor, Sobrecarga, Encapsulamento e Modificadores de Acesso.
+
 ❌ ...
 
 # Conteúdo do Curso
