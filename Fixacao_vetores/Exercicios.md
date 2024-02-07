@@ -1,41 +1,36 @@
-# Curso Java COMPLETO - Exercícios Resolvidos
-Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO Programação Orientada a Objetos + Projetos" oferecido na plataforma Udemy. Aqui, você encontrará minhas soluções para os exercicios propostos durante o curso.
+# Exercícios de fixação sobre vetores 
 
-# Estrutura do Repositório
-💠Tipo Exercícios: Cada tipo de exercícios foi separado por pasta conforme desenvolvendo o andar do curso.
+💠 Exercicio 1
 
-💠Exercícios: Os exercícios então dentro de cada pasta seprada por número da questão.
+  Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos. 
 
-💠Projetos: Além dos exercícios, também incluí soluções para projetos práticos apresentados no curso, demonstrando a aplicação dos conceitos aprendidos em situações do mundo real.
+💠 Exercicio 2
 
-# Exercicios
-✔ Estrutura Sequencial.
+  Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida:
+- Imprimir todos os elementos do vetor;
+- Mostrar na tela a soma e a média dos elementos do vetor.
 
-✔ Estrutura Condicional.
+💠 Exercicio 3
 
-✔ Estrutura While.
+Fazer um programa para ler nome, idade e altura de N pessoas, conforme exemplo. Depois, mostrar na tela a altura média das pessoas, e mostrar também a porcentagem de pessoas com menos de 16 anos, bem como os nomes dessas pessoas caso houver. 
 
-✔ Estrutura FOR.
+💠 Exercicio 4
 
-✔ Exercícios Fixação Classes, Atributos, Membros e Staticos.
+Faça um programa que leia N números inteiros e armazene-os em um vetor. Em seguida, mostre na tela todos os números pares, e também a quantidade de números pares. 
 
-✔ Exercícios Membros Estáticos, Construtor, Sobrecarga, Encapsulamento e Modificadores de Acesso.
+💠 Exercicio 5
 
-✔ Exercícios Vetor.
+Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida, mostrar na tela o maior número do vetor (supor não haver empates). Mostrar também a posição do maior elemento, considerando a primeira posição como 0 (zero). 
 
-❌ ...
+💠 Exercicio 6
 
-# Conteúdo do Curso
-✔ Lógica de Programação Algoritmos usando Java (iniciante).
+ Faça um programa para ler dois vetores A e B, contendo N elementos cada. Em seguida, gere um terceiro vetor C onde cada elemento de C é a soma dos elementos correspondentes de A e B. Imprima o vetor C gerado.
 
-❌ Java e Programação Orientada a Objetos (PARTE 1).
+💠 Exercicio 7
 
-❌ PROJETO Sistema jogo de xadrez.
+Fazer um programa para ler um conjunto de nomes de pessoas e suas respectivas idades. Os nomes devem ser armazenados em um vetor, e as idades em um outro vetor. Depois, mostrar na tela o nome da pessoa mais velha. 
 
-❌ Java e Programação Orientada a Objetos (PARTE 2) + Programação Funcional (lambda).
+💠 Exercicio 8
 
-❌ PROJETO Aplicação desktop com JavaFX e banco de dados MySQL com JDBC.
+Fazer um programa para ler um conjunto de N nomes de alunos, bem como as notas que eles tiraram no 1º e 2º semestres. Cada uma dessas informações deve ser armazenada em um vetor. Depois, imprimir os nomes dos alunos aprovados, considerando aprovados aqueles cuja média das notas seja maior ou igual a 6.0 (seis). 
 
-❌ PROJETO Web services com Spring Boot e JPA / Hibernate.
-
-❌ PROJETO Web services com Spring Boot e NoSQL (MongoDB).
