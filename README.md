@@ -23,6 +23,8 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Exercícios Vetor.
 
+✔ Exercícios List.
+
 ❌ ...
 
 # Conteúdo do Curso
