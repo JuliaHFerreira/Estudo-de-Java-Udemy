@@ -32,7 +32,7 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 # Conteúdo do Curso
 ✔ Lógica de Programação Algoritmos usando Java (iniciante).
 
-❌ Java e Programação Orientada a Objetos (PARTE 1).
+✔  Java e Programação Orientada a Objetos (PARTE 1).
 
 ❌ PROJETO Sistema jogo de xadrez.
 
