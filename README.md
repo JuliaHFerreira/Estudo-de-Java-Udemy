@@ -27,6 +27,8 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Exercício Matriz
 
+✔ Exercício Composição e Enumeração
+
 ❌ ...
 
 # Conteúdo do Curso
