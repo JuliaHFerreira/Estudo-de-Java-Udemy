@@ -29,6 +29,8 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Exercício Composição e Enumeração
 
+✔ Exercício Classe e Metodos abstratos
+
 ❌ ...
 
 # Conteúdo do Curso
