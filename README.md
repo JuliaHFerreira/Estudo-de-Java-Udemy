@@ -9,6 +9,9 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 💠Projetos: Além dos exercícios, também incluí soluções para projetos práticos apresentados no curso, demonstrando a aplicação dos conceitos aprendidos em situações do mundo real.
 
 # Exercicios
+
+# Pasta 1 - Exercicios Básicos de Lógica
+
 ✔ Estrutura Sequencial.
 
 ✔ Estrutura Condicional.
@@ -17,21 +20,23 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Estrutura FOR.
 
-✔ Exercícios Fixação Classes, Atributos, Membros e Staticos.
-
-✔ Exercícios Membros Estáticos, Construtor, Sobrecarga, Encapsulamento e Modificadores de Acesso.
-
 ✔ Exercícios Vetor.
 
 ✔ Exercícios List.
 
 ✔ Exercício Matriz
 
+# Pasta 2 - Exercicios Programação Orientada a Objeto
+
+✔ Exercícios Classes, Atributos, Membros e Staticos.
+
+✔ Exercícios Membros Estáticos, Construtor, Sobrecarga, Encapsulamento e Modificadores de Acesso.
+
 ✔ Exercício Composição e Enumeração
 
 ✔ Exercício Classe e Metodos abstratos
 
-✔ Exercício TRY-CATCH
+✔ Exercício TRY-CATCH (Exceção)
 
 ❌ ...
 
