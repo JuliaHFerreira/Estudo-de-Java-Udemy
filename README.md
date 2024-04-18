@@ -31,6 +31,8 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Exercício Classe e Metodos abstratos
 
+✔ Exercício TRY-CATCH
+
 ❌ ...
 
 # Conteúdo do Curso
