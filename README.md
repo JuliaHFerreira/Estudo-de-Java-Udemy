@@ -10,7 +10,7 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 # Exercicios
 
-# Pasta 1 - Exercicios Básicos de Lógica
+# Pasta 1 - [Exercicios Básicos de Lógica](https://github.com/JuliaHFerreira/Estudo-de-Java-Udemy/tree/main/1%20-%20Exercicios%20Básico%20de%20Logica).
 
 ✔ Estrutura Sequencial.
 
@@ -26,7 +26,7 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Exercício Matriz
 
-# Pasta 2 - Exercicios Programação Orientada a Objeto
+# Pasta 2 - [Exercicios Programação Orientada a Objeto (Parte 1)]().
 
 ✔ Exercícios Classes, Atributos, Membros e Staticos.
 
@@ -38,14 +38,16 @@ Este repositório é dedicado aos exercícios práticos do curso "Java COMPLETO 
 
 ✔ Exercício TRY-CATCH (Exceção)
 
+# Pasta 3 - [Exercicios Programação Orientada a Objeto (Parte 2)]().
+
 ❌ ...
 
 # Conteúdo do Curso
 ✔ Lógica de Programação Algoritmos usando Java (iniciante).
 
-✔  Java e Programação Orientada a Objetos (PARTE 1).
+✔ Java e Programação Orientada a Objetos (PARTE 1).
 
-❌ PROJETO Sistema jogo de xadrez.
+✔ PROJETO [Sistema jogo de xadrez](https://github.com/JuliaHFerreira/chess-system-java).
 
 ❌ Java e Programação Orientada a Objetos (PARTE 2) + Programação Funcional (lambda).
 
